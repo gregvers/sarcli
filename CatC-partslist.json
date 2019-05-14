@@ -1,0 +1,210 @@
+{
+  "OCC": {
+    "sku": "7115589",
+    "label": "Oracle Public Cloud Machine X6-2: model family"
+  },
+  "ExaCC": {
+    "sku": "7118457",
+    "label": "Exadata Cloud at Customer X7-2: model family"
+  },
+  "BDCC": {
+    "sku": "7118642",
+    "label": "Oracle Big Data Cloud X7-2: model family"
+  },
+  "OCC rack": {
+    "sku": "7118288",
+    "label": "Oracle Public Cloud Machine X6-2 Oracle Deployed Base Rack"
+  },
+  "OCC rack resale": {
+    "sku": "7115581",
+    "label": "Oracle Public Cloud Machine X6-2 Base Rack, vendor resale only (for factory installation)"
+  },
+  "OCC admin": {
+    "sku": "7117112",
+    "label": "Oracle Public Cloud Machine X6-2 Compute Model 40 Admin (for factory installation)"
+  },
+  "OCC compute": {
+    "sku": "7115881",
+    "label": "Oracle Public Cloud Machine X6-2 Compute Model 40 (for factory installation)"
+  },
+  "OCC software": {
+    "sku": "7115874",
+    "label": "Oracle Public Cloud Machine X6-2 Software"
+  },
+  "OCC block hdd": {
+    "sku": "7115888",
+    "label": "Oracle Public Cloud Machine X6-2 Block Storage Model 45 (for factory installation)"
+  },
+  "OCC block ssd": {
+    "sku": "7117835",
+    "label": "Oracle Public Cloud Machine X6-2 Block Storage Model 45S (for factory installation)"
+  },
+  "OCC object": {
+    "sku": "7115884",
+    "label": "Oracle Public Cloud Machine X6-2 Object Storage Model 128 (for factory installation)"
+  },
+  "ExaCC ToR": {
+    "sku": "7118493",
+    "label": "Oracle Database Exadata Cloud at Customer with 2 Juniper QFX5100-48S Ethernet Switches"
+  },
+  "ExaCC cable kit": {
+    "sku": "7118501",
+    "label": "Oracle Database Exadata Cloud at Customer with transceivers and cable kit for Juniper QFX5100-48S Ethernet Switch"
+  },
+  "BDCC base rack": {
+    "sku": "7118647",
+    "label": "Oracle Big Data Cloud X7-2: base rack"
+  },
+  "BDCC full rack": {
+    "sku": "7118649",
+    "label": "Oracle Big Data Cloud X7-2 Full Rack"
+  },
+  "BDCC starter rack": {
+    "sku": "7118648",
+    "label": "Oracle Big Data Cloud X7-2 Starter Rack"
+  },
+  "BDCC node": {
+    "sku": "7118651",
+    "label": "Oracle Big Data Cloud X7-2 High Capacity Node plus InfiniBand Infrastructure (for factory installation)"
+  },
+  "OASG": {
+    "sku": "7113294",
+    "label": "Oracle Advanced Support Gateway Server X6-2: model family"
+  },
+  "Juniper support ToR": {
+    "sku": "B86543",
+    "label": "SVC-ND-QFX5100T4: 3 years Juniper Care Next Day support for QFX5100-48T-AFI/7327422"
+  },
+  "Juniper support Spine": {
+    "sku": "B86544",
+    "label": "SVC-COR-QFX-EDGE-ADV1: 3 years Juniper Care Core support for QFX5100-48T-AFI/7327422"
+  },
+  "Cisco support": {
+    "sku": "B87647",
+    "label": "CON-SNT-C4948FS: 3 years CISCO SNTC-8X5XNBD support for WS-C4948E-F-S/7345213"
+  },
+  "install service Engineered Systems": {
+    "sku": "B74197",
+    "label": "Oracle Standard System Installation Service, Site 1 EA Audit: Engineered Systems - Group V"
+  },
+  "install service OASG": {
+    "sku": "B61304",
+    "label": "Oracle Standard System Installation Service, Site Audit: Servers - Group II"
+  },
+  "spine": {
+    "sku": "7115891",
+    "label": "Oracle Public Cloud Machine X6-2 Fabric Expansion Kit"
+  },
+  "cable MPO_MPO 5m": {
+    "sku": "7105199",
+    "label": "Optical cable assembly: 5 meters, MT ferrule terminated, 12-fiber, multimode, MPO connectors"
+  },
+  "cable MPO_MPO 10m": {
+    "sku": "7102869",
+    "label": "Optical cable assembly: 10 meters, MT ferrule terminated, 12-fiber, multimode, MPO connectors"
+  },
+  "cable MPO_MPO 20m": {
+    "sku": "7102870",
+    "label": "Optical cable assembly: 20 meters, MT ferrule terminated, 12-fiber, multimode, MPO connectors"
+  },
+  "cable MPO_MPO 50m": {
+    "sku": "7102871",
+    "label": "Optical cable assembly: 50 meters, MT ferrule terminated, 12-fiber, multimode, MPO connectors"
+  },
+  "cable MPO_MPO 100m": {
+    "sku": "7105206",
+    "label": "Optical cable assembly: 100 meters, MT ferrule terminated, 12-fiber, multimode, MPO connectors"
+  },
+  "cable MPO_4LC 10m": {
+    "sku": "X2127A-10M",
+    "label": "Optical splitter cable assembly: 10 meters, MT ferrule terminated, 12-fiber to 4x2-fiber, multimode, MPO to 4 LC connectors"
+  },
+  "cable MPO_4LC 20m": {
+    "sku": "X2127A-20M",
+    "label": "Optical splitter cable assembly: 20 meters, MT ferrule terminated, 12-fiber to 4x2-fiber, multimode, MPO to 4 LC connectors"
+  },
+  "cable MPO_4LC 50m": {
+    "sku": "X2127A-50M",
+    "label": "Optical splitter cable assembly: 50 meters, MT ferrule terminated, 12-fiber to 4x2-fiber, multimode, MPO to 4 LC connectors"
+  },
+  "cable LC 5m": {
+    "sku": "7119311",
+    "label": "Spare: FC optical cable LC/LC, 5 meters"
+  },
+  "cable LC 10m":{
+    "sku": "7119312",
+    "label": "Spare: FC optical cable LC/LC, 15 meters"
+  },
+  "cable LC 20m":{
+    "sku": "7119313",
+    "label": "Spare: FC optical cable LC/LC, 25 meters"
+  },
+  "cable LC 50m":{
+    "sku": "7119314",
+    "label": "Spare: FC optical cable LC/LC, 50 meters"
+  },
+  "cable CAT6 5m": {
+    "sku": "7116242",
+    "label": "Cable assembly: 15FT, light blue, lszh, stranded, cat6, for internal use only"
+  },
+  "cable CAT6 10m":{
+    "sku": "7119301",
+    "label": "Cable assembly: 30 feet, light blue, lszh, stranded, cat6, for internal use only"
+  },
+  "cable CAT6 20m":{
+    "sku": "7119303",
+    "label": "Cable assembly: 65 feet, light blue, lszh, stranded, cat6, for internal use only"
+  },
+  "cable CAT6 50m":{
+    "sku": "7119307",
+    "label": "Straight through shielded cable: 150 feet, cat6A, blue"
+  },
+  "cable CAT6 100m":{
+    "sku": "7119309",
+    "label": "Straight through shielded cable: 300 feet, cat6A, blue"
+  },
+  "TRX SFP+": {
+    "sku": "7115382",
+    "label": "Juniper EX-SFP-10GE-SR (10G Short Range SFP transceiver)"
+  },
+  "TRX QSFP+ SR4": {
+    "sku": "7117371",
+    "label": "Juniper QSFP+ 40GBASE-SR4 40-Gigabit Optical Module, 850 nm for up to 150 m transmission on multimode fiber-optic (MMF)"
+  },
+  "TRX QSFP+ ESR4": {
+    "sku": "7117372",
+    "label": "Juniper QSFP+ 40GBASE-ESR4 40-Gigabyte Optical Module, 300m (400m) with OM3 (OM4) MMF"
+  },
+  "PDU 1phase-230V-22kVA": {
+    "sku": "7100874",
+    "label": "Single-Phase 2(Two)x22kVA High Voltage Power Supplies (EMEA & APAC (excluding Japan /Taiwan)"
+  },
+  "PDU 1phase-120V-15kVA": {
+    "sku": "6442A",
+    "label": "Single-Phase 2(Two)x15kVA Low Voltage Power Supplies (Americas / Japan /Taiwan)"
+  },
+  "PDU 1phase-120V-22kVA": {
+    "sku": "7100873",
+    "label": "Single-Phase 2(Two)x22kVA Low Voltage Power Supplies (Americas / Japan /Taiwan)"
+  },
+  "PDU 3phase-230V-15kVA": {
+    "sku": "6441A",
+    "label": "Three-Phase 2(Two)x15kVA High Voltage Power Supplies  (EMEA & APAC (excluding Japan /Taiwan)"
+  },
+  "PDU 3phase-230V-24kVA": {
+    "sku": "6445A",
+    "label": "Three-Phase 2(Two)x24kVA High Voltage Power Supplies  (EMEA & APAC (excluding Japan /Taiwan)"
+  },
+  "PDU 3phase-120V-15kVA": {
+    "sku": "6440A",
+    "label": "Three-Phase 2(Two)x15kVA Low Voltage Power Supplies (Americas / Japan /Taiwan)"
+  },
+  "PDU 3phase-120V-24kVA": {
+    "sku": "6444A",
+    "label": "Three-Phase 2(Two)x24kVA Low Voltage Power Supplies (Americas / Japan /Taiwan)"
+  },
+  "power cable": {
+    "sku": "XSR-JUMP-2MC13-N",
+    "label": "Jumper Cable Kit: 1 x 2m C13"
+  }
+}
